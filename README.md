@@ -1,2 +1,7 @@
 # animint2_Test
-Tests of animint2 project for Google Summmer of Code 2022
+Tests of [animint2](https://github.com/rstats-gsoc/gsoc2022/wiki/Animated-interactive-ggplots) for Google Summmer of Code 2022.
+
+## Easy Test
+Use animint2 to visualize [Freedom in the World](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-02-22/readme.md#freedom-in-the-world) data from TidyTuesday. [Visualization]()
+
+## Medium Test
