@@ -8,4 +8,4 @@ Use animint2 to visualize [Freedom in the World data](https://github.com/rfordat
 Create a [Newton's Method demo](http://bl.ocks.org/Faye-yufan/raw/e9521bf52fee403f7fc24591b20e6dc0/) | [source](https://github.com/Faye-yufan/animint2_Test/blob/main/R/medium.newton.method.R).
 
 ## Hard Test
-Create a testthat unit for Newton's Method demo. screencast | [source](https://github.com/Faye-yufan/animint2_Test/blob/main/R/test-renderer3-newtonsMethod.R)
+Create a testthat unit for Newton's Method demo. [screencast](https://youtu.be/-gCwPMqxeg4) | [source](https://github.com/Faye-yufan/animint2_Test/blob/main/R/test-renderer3-newtonsMethod.R)
